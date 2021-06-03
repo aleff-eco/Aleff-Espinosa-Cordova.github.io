@@ -69,12 +69,15 @@ p {
     margin: 20px;
     position: relative;
 }
+.Noticia img{
+    width: 700px;
+}
 .opciones{
     display: inline-block;
     width: 30%;
     padding-left: 5%;
-    position: relative;
-    transform: translatey(-60%);
+    position: fixed;
+    transform: translatey(10%);
 }
 a{
     margin-top: 10px;
